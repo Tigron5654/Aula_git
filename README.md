@@ -1,2 +1,1 @@
-# Aula_git
-Aula test
+README del proyecto
